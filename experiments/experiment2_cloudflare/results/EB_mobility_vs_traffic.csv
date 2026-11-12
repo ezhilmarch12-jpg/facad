@@ -1,0 +1,5 @@
+mobility signal,spearman_rho,p_value,n_states
+workplaces,-0.378,0.111,19
+residential,0.219,0.367,19
+retail and recreation,0.44,0.0596,19
+transit stations,0.047,0.847,19

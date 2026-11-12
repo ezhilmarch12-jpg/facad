@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite it as below."
+title: "FACAD: Festival-Aware Calendar-Adjusted anomaly Detection for Indian network traffic"
+authors:
+  - family-names: Ezhilarasan
+    given-names: E.
+    affiliation: "Department of Computer Science and Engineering (AI & Data Science), School of Technology, The Apollo University, Chittoor, Andhra Pradesh, India"
+    orcid: "https://orcid.org/0000-0001-5000-4577"
+version: "1.0.0"
+date-released: "2026-11-11"
+license: MIT
+keywords: [network anomaly detection, false alarms, calendar effects, conformal prediction, Indian festivals]

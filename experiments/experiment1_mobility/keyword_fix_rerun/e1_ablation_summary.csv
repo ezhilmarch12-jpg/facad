@@ -1,0 +1,10 @@
+,FPR_festival,FPR_festival,festival_share_of_FP,festival_share_of_FP,F1,F1,PR_AUC,PR_AUC,recall_festival_attacks,recall_festival_attacks
+,mean,std,mean,std,mean,std,mean,std,mean,std
+variant,,,,,,,,,,
+FACAD (full),0.056,0.001,0.359,0.005,0.31,0.015,0.23,0.007,0.232,0.047
+No adjustment,0.096,0.001,0.617,0.004,0.156,0.017,0.187,0.005,0.254,0.035
+Mean shift only,0.086,0.001,0.552,0.004,0.199,0.02,0.203,0.006,0.304,0.053
+Variance only,0.057,0.001,0.364,0.005,0.31,0.013,0.226,0.006,0.246,0.031
+Festival day only,0.07,0.001,0.447,0.007,0.294,0.018,0.23,0.006,0.367,0.024
+Gregorian holidays only,0.088,0.001,0.565,0.005,0.163,0.01,0.195,0.005,0.254,0.029
+National calendar only,0.064,0.001,0.411,0.005,0.292,0.017,0.223,0.006,0.277,0.037

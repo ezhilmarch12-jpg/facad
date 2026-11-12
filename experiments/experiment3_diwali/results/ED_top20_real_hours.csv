@@ -1,0 +1,41 @@
+state,ist,holiday,bucket,score_SeasonalZ,score_FACAD,clr_resid,ranked_by
+TS,2026-11-03 04:30:00,,normal,11.608,11.608,1.142,SeasonalZ-a
+TS,2026-11-03 03:30:00,,normal,10.582,10.582,1.045,SeasonalZ-a
+TS,2026-11-03 02:30:00,,normal,9.701,9.701,0.961,SeasonalZ-a
+TS,2026-11-03 05:30:00,,normal,9.264,9.264,0.918,SeasonalZ-a
+TS,2026-11-03 01:30:00,,normal,8.272,8.272,0.819,SeasonalZ-a
+GJ,2026-11-10 09:30:00,Vikram Samvat New Year,holiday,8.191,5.733,-0.353,SeasonalZ-a
+TS,2026-11-03 00:30:00,,normal,7.751,7.751,0.768,SeasonalZ-a
+GJ,2026-11-10 10:30:00,Vikram Samvat New Year,holiday,7.535,5.278,-0.325,SeasonalZ-a
+GJ,2026-11-10 08:30:00,Vikram Samvat New Year,holiday,7.129,4.996,-0.307,SeasonalZ-a
+TS,2026-11-03 12:30:00,,normal,7.063,7.063,0.74,SeasonalZ-a
+TS,2026-11-03 06:30:00,,normal,6.958,6.958,0.701,SeasonalZ-a
+TS,2026-11-03 07:30:00,,normal,6.907,6.907,0.697,SeasonalZ-a
+GJ,2026-11-10 11:30:00,Vikram Samvat New Year,holiday,6.847,4.801,-0.295,SeasonalZ-a
+TS,2026-11-02 19:30:00,,normal,6.825,6.825,0.66,SeasonalZ-a
+RJ,2026-11-08 19:30:00,Diwali (Deepavali),holiday,6.801,5.262,-0.276,SeasonalZ-a
+TS,2026-11-02 17:30:00,,normal,6.749,6.749,0.636,SeasonalZ-a
+MP,2026-11-08 20:30:00,Diwali (Deepavali),holiday,6.506,4.855,-0.209,SeasonalZ-a
+HR,2026-11-08 19:30:00,Diwali (Deepavali),holiday,6.49,4.837,-0.223,SeasonalZ-a
+OD,2026-11-06 04:30:00,,window,6.467,4.4,0.391,SeasonalZ-a
+GJ,2026-11-10 07:30:00,Vikram Samvat New Year,holiday,6.421,4.505,-0.277,SeasonalZ-a
+TS,2026-11-03 04:30:00,,normal,11.608,11.608,1.142,FACAD-a
+TS,2026-11-03 03:30:00,,normal,10.582,10.582,1.045,FACAD-a
+TS,2026-11-03 02:30:00,,normal,9.701,9.701,0.961,FACAD-a
+TS,2026-11-03 05:30:00,,normal,9.264,9.264,0.918,FACAD-a
+TS,2026-11-03 01:30:00,,normal,8.272,8.272,0.819,FACAD-a
+TS,2026-11-03 00:30:00,,normal,7.751,7.751,0.768,FACAD-a
+TS,2026-11-03 12:30:00,,normal,7.063,7.063,0.74,FACAD-a
+TS,2026-11-03 06:30:00,,normal,6.958,6.958,0.701,FACAD-a
+TS,2026-11-03 07:30:00,,normal,6.907,6.907,0.697,FACAD-a
+TS,2026-11-02 19:30:00,,normal,6.825,6.825,0.66,FACAD-a
+TS,2026-11-02 17:30:00,,normal,6.749,6.749,0.636,FACAD-a
+TS,2026-11-02 16:30:00,,normal,6.412,6.412,0.597,FACAD-a
+TS,2026-11-03 08:30:00,,normal,6.227,6.227,0.63,FACAD-a
+TS,2026-11-03 13:30:00,,normal,6.156,6.156,0.652,FACAD-a
+JK,2026-10-30 04:30:00,,normal,6.014,6.014,-0.22,FACAD-a
+KL,2026-10-27 02:30:00,,normal,5.958,5.958,-0.339,FACAD-a
+TS,2026-11-02 20:30:00,,normal,5.847,5.847,0.567,FACAD-a
+KA,2026-10-26 07:30:00,,normal,5.835,5.835,0.129,FACAD-a
+TS,2026-11-04 02:30:00,,normal,5.746,5.746,0.69,FACAD-a
+GJ,2026-11-10 09:30:00,Vikram Samvat New Year,holiday,8.191,5.733,-0.353,FACAD-a

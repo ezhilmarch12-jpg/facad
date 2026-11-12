@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "facad"
+version = "1.0.0"
+description = "Festival-Aware Calendar-Adjusted anomaly Detection for Indian network traffic"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "E. Ezhilarasan", email = "ezhilarasan_e@apollouniversity.edu.in"}]
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26", "pandas>=2.2", "scikit-learn>=1.4"]
+keywords = ["anomaly detection", "network traffic", "calendar effects", "conformal prediction", "India"]
+classifiers = ["Programming Language :: Python :: 3", "License :: OSI Approved :: MIT License",
+               "Topic :: Scientific/Engineering :: Artificial Intelligence"]
+
+[project.optional-dependencies]
+calendar = ["holidays==0.107", "ephem>=4.1"]
+experiments = ["holidays==0.107", "ephem>=4.1", "scipy>=1.11", "lightgbm>=4.3", "prophet>=1.1.5",
+               "matplotlib>=3.8", "tabulate", "jupyter"]
+dev = ["pytest>=8", "holidays==0.107"]
+
+[project.urls]
+Paper = "https://doi.org/TO-BE-ADDED"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

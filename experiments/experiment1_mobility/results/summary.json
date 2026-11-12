@@ -1,0 +1,1022 @@
+{
+ "E1": {
+  "matched": {
+   "FACAD": {
+    "FPR_festival": [
+     0.0559,
+     0.0008
+    ],
+    "FPR_nonfestival": [
+     0.0473,
+     0.0004
+    ],
+    "FPR_overall": [
+     0.0501,
+     0.0
+    ],
+    "precision": [
+     0.266,
+     0.0115
+    ],
+    "recall": [
+     0.3702,
+     0.0215
+    ],
+    "F1": [
+     0.3096,
+     0.0153
+    ],
+    "PR_AUC": [
+     0.2296,
+     0.007
+    ],
+    "festival_share_of_FP": [
+     0.359,
+     0.0053
+    ],
+    "recall_festival_attacks": [
+     0.2316,
+     0.046
+    ],
+    "recall_other_attacks": [
+     0.4164,
+     0.0211
+    ]
+   },
+   "SeasonalZ": {
+    "FPR_festival": [
+     0.0936,
+     0.0006
+    ],
+    "FPR_nonfestival": [
+     0.0294,
+     0.0003
+    ],
+    "FPR_overall": [
+     0.0501,
+     0.0
+    ],
+    "precision": [
+     0.1327,
+     0.0077
+    ],
+    "recall": [
+     0.1562,
+     0.0104
+    ],
+    "F1": [
+     0.1435,
+     0.0089
+    ],
+    "PR_AUC": [
+     0.1896,
+     0.0048
+    ],
+    "festival_share_of_FP": [
+     0.6013,
+     0.0039
+    ],
+    "recall_festival_attacks": [
+     0.2456,
+     0.0211
+    ],
+    "recall_other_attacks": [
+     0.1265,
+     0.0093
+    ]
+   },
+   "Whitelist": {
+    "FPR_festival": [
+     0.0,
+     0.0
+    ],
+    "FPR_nonfestival": [
+     0.074,
+     0.0003
+    ],
+    "FPR_overall": [
+     0.0502,
+     0.0002
+    ],
+    "precision": [
+     0.3407,
+     0.0085
+    ],
+    "recall": [
+     0.5287,
+     0.0191
+    ],
+    "F1": [
+     0.4144,
+     0.0121
+    ],
+    "PR_AUC": [
+     0.1896,
+     0.0048
+    ],
+    "festival_share_of_FP": [
+     0.0,
+     0.0
+    ],
+    "recall_festival_attacks": [
+     0.0,
+     0.0
+    ],
+    "recall_other_attacks": [
+     0.7049,
+     0.0255
+    ]
+   },
+   "FACAD-GBR": {
+    "FPR_festival": [
+     0.0457,
+     0.0036
+    ],
+    "FPR_nonfestival": [
+     0.0522,
+     0.0017
+    ],
+    "FPR_overall": [
+     0.0501,
+     0.0
+    ],
+    "precision": [
+     0.1487,
+     0.0433
+    ],
+    "recall": [
+     0.1811,
+     0.0618
+    ],
+    "F1": [
+     0.1632,
+     0.0512
+    ],
+    "PR_AUC": [
+     0.1488,
+     0.0198
+    ],
+    "festival_share_of_FP": [
+     0.2936,
+     0.0229
+    ],
+    "recall_festival_attacks": [
+     0.1265,
+     0.049
+    ],
+    "recall_other_attacks": [
+     0.1993,
+     0.068
+    ]
+   },
+   "Blind-GBR": {
+    "FPR_festival": [
+     0.0755,
+     0.0088
+    ],
+    "FPR_nonfestival": [
+     0.0381,
+     0.0042
+    ],
+    "FPR_overall": [
+     0.0501,
+     0.0
+    ],
+    "precision": [
+     0.1203,
+     0.0284
+    ],
+    "recall": [
+     0.1406,
+     0.0375
+    ],
+    "F1": [
+     0.1296,
+     0.0325
+    ],
+    "PR_AUC": [
+     0.1327,
+     0.0141
+    ],
+    "festival_share_of_FP": [
+     0.4847,
+     0.0566
+    ],
+    "recall_festival_attacks": [
+     0.1713,
+     0.0412
+    ],
+    "recall_other_attacks": [
+     0.1304,
+     0.0373
+    ]
+   },
+   "Cal-GBR": {
+    "FPR_festival": [
+     0.0743,
+     0.006
+    ],
+    "FPR_nonfestival": [
+     0.0386,
+     0.0028
+    ],
+    "FPR_overall": [
+     0.0501,
+     0.0
+    ],
+    "precision": [
+     0.1542,
+     0.0401
+    ],
+    "recall": [
+     0.1884,
+     0.0571
+    ],
+    "F1": [
+     0.1695,
+     0.0473
+    ],
+    "PR_AUC": [
+     0.1496,
+     0.0166
+    ],
+    "festival_share_of_FP": [
+     0.4777,
+     0.0382
+    ],
+    "recall_festival_attacks": [
+     0.2044,
+     0.0678
+    ],
+    "recall_other_attacks": [
+     0.1831,
+     0.0559
+    ]
+   },
+   "IF": {
+    "FPR_festival": [
+     0.0806,
+     0.0027
+    ],
+    "FPR_nonfestival": [
+     0.0356,
+     0.0013
+    ],
+    "FPR_overall": [
+     0.0501,
+     0.0
+    ],
+    "precision": [
+     0.167,
+     0.0131
+    ],
+    "recall": [
+     0.2048,
+     0.0191
+    ],
+    "F1": [
+     0.184,
+     0.0157
+    ],
+    "PR_AUC": [
+     0.1619,
+     0.0056
+    ],
+    "festival_share_of_FP": [
+     0.5178,
+     0.0173
+    ],
+    "recall_festival_attacks": [
+     0.2765,
+     0.0426
+    ],
+    "recall_other_attacks": [
+     0.1809,
+     0.0192
+    ]
+   },
+   "IF+cal": {
+    "FPR_festival": [
+     0.1485,
+     0.002
+    ],
+    "FPR_nonfestival": [
+     0.0034,
+     0.0009
+    ],
+    "FPR_overall": [
+     0.0501,
+     0.0
+    ],
+    "precision": [
+     0.0703,
+     0.0137
+    ],
+    "recall": [
+     0.0774,
+     0.0162
+    ],
+    "F1": [
+     0.0737,
+     0.0149
+    ],
+    "PR_AUC": [
+     0.0675,
+     0.0023
+    ],
+    "festival_share_of_FP": [
+     0.9539,
+     0.0126
+    ],
+    "recall_festival_attacks": [
+     0.2816,
+     0.0525
+    ],
+    "recall_other_attacks": [
+     0.0093,
+     0.0086
+    ]
+   }
+  },
+  "val": {
+   "FACAD": {
+    "FPR_festival": [
+     0.084,
+     0.0011
+    ],
+    "FPR_nonfestival": [
+     0.0774,
+     0.001
+    ],
+    "FPR_overall": [
+     0.0795,
+     0.0007
+    ],
+    "precision": [
+     0.284,
+     0.0069
+    ],
+    "recall": [
+     0.6426,
+     0.0198
+    ],
+    "F1": [
+     0.3939,
+     0.0103
+    ],
+    "PR_AUC": [
+     0.2296,
+     0.007
+    ],
+    "festival_share_of_FP": [
+     0.3401,
+     0.0043
+    ],
+    "recall_festival_attacks": [
+     0.4051,
+     0.039
+    ],
+    "recall_other_attacks": [
+     0.7218,
+     0.0227
+    ]
+   },
+   "SeasonalZ": {
+    "FPR_festival": [
+     0.1884,
+     0.0018
+    ],
+    "FPR_nonfestival": [
+     0.068,
+     0.0008
+    ],
+    "FPR_overall": [
+     0.1067,
+     0.0008
+    ],
+    "precision": [
+     0.2337,
+     0.0056
+    ],
+    "recall": [
+     0.6632,
+     0.0188
+    ],
+    "F1": [
+     0.3456,
+     0.0086
+    ],
+    "PR_AUC": [
+     0.1896,
+     0.0048
+    ],
+    "festival_share_of_FP": [
+     0.5681,
+     0.004
+    ],
+    "recall_festival_attacks": [
+     0.7037,
+     0.0445
+    ],
+    "recall_other_attacks": [
+     0.6498,
+     0.0189
+    ]
+   },
+   "Whitelist": {
+    "FPR_festival": [
+     0.0,
+     0.0
+    ],
+    "FPR_nonfestival": [
+     0.068,
+     0.0008
+    ],
+    "FPR_overall": [
+     0.0461,
+     0.0006
+    ],
+    "precision": [
+     0.3415,
+     0.0061
+    ],
+    "recall": [
+     0.4873,
+     0.0142
+    ],
+    "F1": [
+     0.4016,
+     0.0088
+    ],
+    "PR_AUC": [
+     0.1896,
+     0.0048
+    ],
+    "festival_share_of_FP": [
+     0.0,
+     0.0
+    ],
+    "recall_festival_attacks": [
+     0.0,
+     0.0
+    ],
+    "recall_other_attacks": [
+     0.6498,
+     0.0189
+    ]
+   },
+   "FACAD-GBR": {
+    "FPR_festival": [
+     0.2877,
+     0.0176
+    ],
+    "FPR_nonfestival": [
+     0.2925,
+     0.0186
+    ],
+    "FPR_overall": [
+     0.291,
+     0.0179
+    ],
+    "precision": [
+     0.1292,
+     0.0062
+    ],
+    "recall": [
+     0.8772,
+     0.0115
+    ],
+    "F1": [
+     0.2251,
+     0.0094
+    ],
+    "PR_AUC": [
+     0.1488,
+     0.0198
+    ],
+    "festival_share_of_FP": [
+     0.3182,
+     0.0058
+    ],
+    "recall_festival_attacks": [
+     0.8279,
+     0.0366
+    ],
+    "recall_other_attacks": [
+     0.8936,
+     0.0128
+    ]
+   },
+   "Blind-GBR": {
+    "FPR_festival": [
+     0.3604,
+     0.0161
+    ],
+    "FPR_nonfestival": [
+     0.2482,
+     0.0223
+    ],
+    "FPR_overall": [
+     0.2843,
+     0.0201
+    ],
+    "precision": [
+     0.1282,
+     0.0068
+    ],
+    "recall": [
+     0.8493,
+     0.0116
+    ],
+    "F1": [
+     0.2227,
+     0.01
+    ],
+    "PR_AUC": [
+     0.1327,
+     0.0141
+    ],
+    "festival_share_of_FP": [
+     0.4085,
+     0.0117
+    ],
+    "recall_festival_attacks": [
+     0.8735,
+     0.0249
+    ],
+    "recall_other_attacks": [
+     0.8412,
+     0.0103
+    ]
+   },
+   "Cal-GBR": {
+    "FPR_festival": [
+     0.3109,
+     0.0206
+    ],
+    "FPR_nonfestival": [
+     0.2307,
+     0.0183
+    ],
+    "FPR_overall": [
+     0.2565,
+     0.0182
+    ],
+    "precision": [
+     0.1375,
+     0.0071
+    ],
+    "recall": [
+     0.8303,
+     0.0174
+    ],
+    "F1": [
+     0.2358,
+     0.01
+    ],
+    "PR_AUC": [
+     0.1496,
+     0.0166
+    ],
+    "festival_share_of_FP": [
+     0.3902,
+     0.0113
+    ],
+    "recall_festival_attacks": [
+     0.8471,
+     0.0245
+    ],
+    "recall_other_attacks": [
+     0.8248,
+     0.0203
+    ]
+   },
+   "IF": {
+    "FPR_festival": [
+     0.0635,
+     0.0036
+    ],
+    "FPR_nonfestival": [
+     0.0263,
+     0.0022
+    ],
+    "FPR_overall": [
+     0.0383,
+     0.0024
+    ],
+    "precision": [
+     0.1517,
+     0.0171
+    ],
+    "recall": [
+     0.1392,
+     0.0153
+    ],
+    "F1": [
+     0.145,
+     0.0155
+    ],
+    "PR_AUC": [
+     0.1619,
+     0.0056
+    ],
+    "festival_share_of_FP": [
+     0.5341,
+     0.0165
+    ],
+    "recall_festival_attacks": [
+     0.2007,
+     0.0448
+    ],
+    "recall_other_attacks": [
+     0.1186,
+     0.0151
+    ]
+   },
+   "IF+cal": {
+    "FPR_festival": [
+     0.1271,
+     0.0114
+    ],
+    "FPR_nonfestival": [
+     0.0026,
+     0.0008
+    ],
+    "FPR_overall": [
+     0.0427,
+     0.0037
+    ],
+    "precision": [
+     0.0665,
+     0.0113
+    ],
+    "recall": [
+     0.0623,
+     0.0135
+    ],
+    "F1": [
+     0.0642,
+     0.0123
+    ],
+    "PR_AUC": [
+     0.0675,
+     0.0023
+    ],
+    "festival_share_of_FP": [
+     0.9588,
+     0.0123
+    ],
+    "recall_festival_attacks": [
+     0.2316,
+     0.0499
+    ],
+    "recall_other_attacks": [
+     0.0059,
+     0.0049
+    ]
+   }
+  },
+  "wilcoxon_matched": [
+   {
+    "vs": "SeasonalZ",
+    "\u0394FPR_festival": -0.038,
+    "p_FPR_festival": 0.002,
+    "\u0394F1": 0.166,
+    "p_F1": 0.002,
+    "\u0394PR_AUC": 0.04,
+    "p_PR_AUC": 0.002,
+    "\u0394recall_festival_attacks": -0.014,
+    "p_recall_festival_attacks": 0.4062
+   },
+   {
+    "vs": "FACAD-GBR",
+    "\u0394FPR_festival": 0.01,
+    "p_FPR_festival": 0.002,
+    "\u0394F1": 0.146,
+    "p_F1": 0.002,
+    "\u0394PR_AUC": 0.081,
+    "p_PR_AUC": 0.002,
+    "\u0394recall_festival_attacks": 0.105,
+    "p_recall_festival_attacks": 0.0098
+   },
+   {
+    "vs": "Blind-GBR",
+    "\u0394FPR_festival": -0.02,
+    "p_FPR_festival": 0.002,
+    "\u0394F1": 0.18,
+    "p_F1": 0.002,
+    "\u0394PR_AUC": 0.097,
+    "p_PR_AUC": 0.002,
+    "\u0394recall_festival_attacks": 0.06,
+    "p_recall_festival_attacks": 0.0391
+   },
+   {
+    "vs": "Cal-GBR",
+    "\u0394FPR_festival": -0.018,
+    "p_FPR_festival": 0.002,
+    "\u0394F1": 0.14,
+    "p_F1": 0.002,
+    "\u0394PR_AUC": 0.08,
+    "p_PR_AUC": 0.002,
+    "\u0394recall_festival_attacks": 0.027,
+    "p_recall_festival_attacks": 0.1934
+   },
+   {
+    "vs": "IF",
+    "\u0394FPR_festival": -0.025,
+    "p_FPR_festival": 0.002,
+    "\u0394F1": 0.126,
+    "p_F1": 0.002,
+    "\u0394PR_AUC": 0.068,
+    "p_PR_AUC": 0.002,
+    "\u0394recall_festival_attacks": -0.045,
+    "p_recall_festival_attacks": 0.0117
+   },
+   {
+    "vs": "IF+cal",
+    "\u0394FPR_festival": -0.093,
+    "p_FPR_festival": 0.002,
+    "\u0394F1": 0.236,
+    "p_F1": 0.002,
+    "\u0394PR_AUC": 0.162,
+    "p_PR_AUC": 0.002,
+    "\u0394recall_festival_attacks": -0.05,
+    "p_recall_festival_attacks": 0.0195
+   },
+   {
+    "vs": "Whitelist",
+    "\u0394FPR_festival": 0.056,
+    "p_FPR_festival": 0.002,
+    "\u0394F1": -0.105,
+    "p_F1": 0.002,
+    "\u0394PR_AUC": 0.04,
+    "p_PR_AUC": 0.002,
+    "\u0394recall_festival_attacks": 0.232,
+    "p_recall_festival_attacks": 0.002
+   }
+  ],
+  "wilcoxon_val": [
+   {
+    "vs": "SeasonalZ",
+    "\u0394FPR_festival": -0.104,
+    "p_FPR_festival": 0.002,
+    "\u0394F1": 0.048,
+    "p_F1": 0.002,
+    "\u0394PR_AUC": 0.04,
+    "p_PR_AUC": 0.002,
+    "\u0394recall_festival_attacks": -0.299,
+    "p_recall_festival_attacks": 0.002
+   },
+   {
+    "vs": "FACAD-GBR",
+    "\u0394FPR_festival": -0.204,
+    "p_FPR_festival": 0.002,
+    "\u0394F1": 0.169,
+    "p_F1": 0.002,
+    "\u0394PR_AUC": 0.081,
+    "p_PR_AUC": 0.002,
+    "\u0394recall_festival_attacks": -0.423,
+    "p_recall_festival_attacks": 0.002
+   },
+   {
+    "vs": "Blind-GBR",
+    "\u0394FPR_festival": -0.276,
+    "p_FPR_festival": 0.002,
+    "\u0394F1": 0.171,
+    "p_F1": 0.002,
+    "\u0394PR_AUC": 0.097,
+    "p_PR_AUC": 0.002,
+    "\u0394recall_festival_attacks": -0.468,
+    "p_recall_festival_attacks": 0.002
+   },
+   {
+    "vs": "Cal-GBR",
+    "\u0394FPR_festival": -0.227,
+    "p_FPR_festival": 0.002,
+    "\u0394F1": 0.158,
+    "p_F1": 0.002,
+    "\u0394PR_AUC": 0.08,
+    "p_PR_AUC": 0.002,
+    "\u0394recall_festival_attacks": -0.442,
+    "p_recall_festival_attacks": 0.002
+   },
+   {
+    "vs": "IF",
+    "\u0394FPR_festival": 0.021,
+    "p_FPR_festival": 0.002,
+    "\u0394F1": 0.249,
+    "p_F1": 0.002,
+    "\u0394PR_AUC": 0.068,
+    "p_PR_AUC": 0.002,
+    "\u0394recall_festival_attacks": 0.204,
+    "p_recall_festival_attacks": 0.002
+   },
+   {
+    "vs": "IF+cal",
+    "\u0394FPR_festival": -0.043,
+    "p_FPR_festival": 0.002,
+    "\u0394F1": 0.33,
+    "p_F1": 0.002,
+    "\u0394PR_AUC": 0.162,
+    "p_PR_AUC": 0.002,
+    "\u0394recall_festival_attacks": 0.174,
+    "p_recall_festival_attacks": 0.002
+   },
+   {
+    "vs": "Whitelist",
+    "\u0394FPR_festival": 0.084,
+    "p_FPR_festival": 0.002,
+    "\u0394F1": -0.008,
+    "p_F1": 0.002,
+    "\u0394PR_AUC": 0.04,
+    "p_PR_AUC": 0.002,
+    "\u0394recall_festival_attacks": 0.405,
+    "p_recall_festival_attacks": 0.002
+   }
+  ],
+  "wilcoxon_facadgbr": [
+   {
+    "vs": "Blind-GBR",
+    "\u0394FPR_festival": -0.03,
+    "p_FPR_festival": 0.002,
+    "\u0394F1": 0.034,
+    "p_F1": 0.002,
+    "\u0394PR_AUC": 0.016,
+    "p_PR_AUC": 0.002,
+    "\u0394recall_festival_attacks": -0.045,
+    "p_recall_festival_attacks": 0.0039,
+    "mode": "matched"
+   },
+   {
+    "vs": "Cal-GBR",
+    "\u0394FPR_festival": -0.029,
+    "p_FPR_festival": 0.002,
+    "\u0394F1": -0.006,
+    "p_F1": 0.375,
+    "\u0394PR_AUC": -0.001,
+    "p_PR_AUC": 0.625,
+    "\u0394recall_festival_attacks": -0.078,
+    "p_recall_festival_attacks": 0.002,
+    "mode": "matched"
+   },
+   {
+    "vs": "Blind-GBR",
+    "\u0394FPR_festival": -0.073,
+    "p_FPR_festival": 0.002,
+    "\u0394F1": 0.002,
+    "p_F1": 0.1055,
+    "\u0394PR_AUC": 0.016,
+    "p_PR_AUC": 0.002,
+    "\u0394recall_festival_attacks": -0.046,
+    "p_recall_festival_attacks": 0.0078,
+    "mode": "val"
+   },
+   {
+    "vs": "Cal-GBR",
+    "\u0394FPR_festival": -0.023,
+    "p_FPR_festival": 0.002,
+    "\u0394F1": -0.011,
+    "p_F1": 0.0059,
+    "\u0394PR_AUC": -0.001,
+    "p_PR_AUC": 0.625,
+    "\u0394recall_festival_attacks": -0.019,
+    "p_recall_festival_attacks": 0.0332,
+    "mode": "val"
+   }
+  ],
+  "per_festival": [
+   {
+    "group": "holi",
+    "FACAD": 0.37,
+    "SeasonalZ": 0.421,
+    "n_days": 207,
+    "reduction_%": 12.1
+   },
+   {
+    "group": "harvest",
+    "FACAD": 0.063,
+    "SeasonalZ": 0.191,
+    "n_days": 73,
+    "reduction_%": 67.0
+   },
+   {
+    "group": "diwali",
+    "FACAD": 0.053,
+    "SeasonalZ": 0.184,
+    "n_days": 217,
+    "reduction_%": 71.2
+   },
+   {
+    "group": "newyear_regional",
+    "FACAD": 0.0,
+    "SeasonalZ": 0.105,
+    "n_days": 85,
+    "reduction_%": 100.0
+   },
+   {
+    "group": "dussehra",
+    "FACAD": 0.142,
+    "SeasonalZ": 0.104,
+    "n_days": 208,
+    "reduction_%": -36.5
+   },
+   {
+    "group": "national",
+    "FACAD": 0.035,
+    "SeasonalZ": 0.075,
+    "n_days": 664,
+    "reduction_%": 53.3
+   },
+   {
+    "group": "other",
+    "FACAD": 0.007,
+    "SeasonalZ": 0.058,
+    "n_days": 1181,
+    "reduction_%": 87.9
+   },
+   {
+    "group": "eid",
+    "FACAD": 0.048,
+    "SeasonalZ": 0.05,
+    "n_days": 712,
+    "reduction_%": 4.0
+   },
+   {
+    "group": "christmas",
+    "FACAD": 0.053,
+    "SeasonalZ": 0.042,
+    "n_days": 213,
+    "reduction_%": -26.2
+   },
+   {
+    "group": "none",
+    "FACAD": 0.047,
+    "SeasonalZ": 0.029,
+    "n_days": 7518,
+    "reduction_%": -62.1
+   },
+   {
+    "group": "onam",
+    "FACAD": 0.0,
+    "SeasonalZ": 0.0,
+    "n_days": 6,
+    "reduction_%": NaN
+   }
+  ],
+  "ablation": {
+   "FACAD (full)": {
+    "FPR_festival": 0.0559,
+    "F1": 0.3096,
+    "PR_AUC": 0.2296,
+    "recall_festival_attacks": 0.2316,
+    "festival_share_of_FP": 0.359
+   },
+   "No adjustment": {
+    "FPR_festival": 0.0962,
+    "F1": 0.1564,
+    "PR_AUC": 0.1872,
+    "recall_festival_attacks": 0.2544,
+    "festival_share_of_FP": 0.6173
+   },
+   "Mean shift only": {
+    "FPR_festival": 0.0861,
+    "F1": 0.1986,
+    "PR_AUC": 0.2028,
+    "recall_festival_attacks": 0.3044,
+    "festival_share_of_FP": 0.553
+   },
+   "Variance only": {
+    "FPR_festival": 0.0569,
+    "F1": 0.3088,
+    "PR_AUC": 0.2259,
+    "recall_festival_attacks": 0.2434,
+    "festival_share_of_FP": 0.3652
+   },
+   "Festival day only": {
+    "FPR_festival": 0.0697,
+    "F1": 0.2941,
+    "PR_AUC": 0.2301,
+    "recall_festival_attacks": 0.3669,
+    "festival_share_of_FP": 0.4468
+   },
+   "Gregorian holidays only": {
+    "FPR_festival": 0.0882,
+    "F1": 0.1632,
+    "PR_AUC": 0.1945,
+    "recall_festival_attacks": 0.2544,
+    "festival_share_of_FP": 0.5653
+   },
+   "National calendar only": {
+    "FPR_festival": 0.064,
+    "F1": 0.2921,
+    "PR_AUC": 0.223,
+    "recall_festival_attacks": 0.2772,
+    "festival_share_of_FP": 0.4111
+   }
+  },
+  "n_rows": 33012,
+  "n_regions": 36,
+  "test_rows": 11628,
+  "test_fest_share": 0.31836945304437564
+ }
+}

@@ -1,0 +1,14 @@
+method,vs,metric,mean_a,mean_b,median_diff,lo,hi,p,better_states,n
+FACAD-CG,SeasonalZ-a,FPR_holiday,0.043,0.083,-0.026,-0.052,-0.002,0.000987,14,19
+FACAD-CG,SeasonalZ-a,PR_AUC,0.611,0.59,0.008,-0.013,0.033,0.258,11,19
+FACAD-CG,SeasonalZ-a,recall_in_window,0.584,0.61,-0.043,-0.06,0.0,0.0495,4,19
+FACAD-CG,SeasonalZ-a,F1,0.507,0.498,0.003,-0.005,0.014,0.293,10,19
+FACAD-a,SeasonalZ-a,FPR_holiday,0.046,0.083,-0.018,-0.057,0.0,0.00189,13,19
+FACAD-a,SeasonalZ-a,PR_AUC,0.607,0.59,0.0,-0.016,0.024,0.49,10,19
+FACAD-H-CG,SeasonalZ-a,FPR_holiday,0.051,0.083,-0.025,-0.048,0.0,0.00121,13,19
+FACAD-H-CG,SeasonalZ-a,PR_AUC,0.614,0.59,0.006,-0.009,0.041,0.21,12,19
+FACAD-H-a,SeasonalZ-a,PR_AUC,0.612,0.59,0.002,-0.009,0.041,0.395,10,19
+FACAD-prior (mobility),SeasonalZ-a,FPR_holiday,0.032,0.083,-0.016,-0.091,0.0,0.00123,13,19
+FACAD-prior (mobility),SeasonalZ-a,PR_AUC,0.574,0.59,-0.02,-0.036,-0.009,0.0546,4,19
+FACAD-CG,FACAD-a,PR_AUC,0.611,0.607,0.004,0.0,0.007,0.000645,16,19
+FACAD-CG,FACAD-a,FPR_holiday,0.043,0.046,0.0,0.0,0.0,0.515,4,19

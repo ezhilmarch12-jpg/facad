@@ -1,0 +1,37 @@
+context,offset,signal,E,V
+dussehra@-3,-3,grocery and pharmacy,1.0744351419379223,1.0
+dussehra@-3,-3,parks,0.7837391526419306,1.0
+dussehra@-3,-3,residential,-0.8359881710460424,1.0
+dussehra@-3,-3,retail and recreation,1.285332241723007,1.0
+dussehra@-3,-3,transit stations,1.0449854487517904,1.0
+dussehra@-3,-3,workplaces,0.11494839654336558,1.0
+dussehra@-2,-2,grocery and pharmacy,1.1625464093850966,1.0
+dussehra@-2,-2,parks,0.7576144723710765,1.0
+dussehra@-2,-2,residential,-0.9404867981516927,1.1549289330572927
+dussehra@-2,-2,retail and recreation,1.2191497698304368,1.0
+dussehra@-2,-2,transit stations,1.1843169306754342,1.0
+dussehra@-2,-2,workplaces,-0.2220594222990409,1.0
+dussehra@-1,-1,grocery and pharmacy,1.364505601439747,1.0103284892582391
+dussehra@-1,-1,parks,1.0972347211893798,1.0221326001054138
+dussehra@-1,-1,residential,-1.2539822565690637,1.0
+dussehra@-1,-1,retail and recreation,1.5276692855356437,1.0
+dussehra@-1,-1,transit stations,1.3236483342843088,1.0
+dussehra@-1,-1,workplaces,-0.7941889748833415,1.6411698223409825
+dussehra@+0,0,grocery and pharmacy,0.8275773145955542,1.0
+dussehra@+0,0,parks,1.1333371857891708,1.4780385320896285
+dussehra@+0,0,residential,-0.3182988490728634,2.4157289577837764
+dussehra@+0,0,retail and recreation,1.0547554221241884,1.0
+dussehra@+0,0,transit stations,0.565864822011119,1.0299623950851535
+dussehra@+0,0,workplaces,-3.2523624997362566,4.380005085483082
+dussehra@+1,1,grocery and pharmacy,0.25250163487025995,1.0
+dussehra@+1,1,parks,0.901791500972361,1.0
+dussehra@+1,1,residential,-0.6312538884807165,1.0
+dussehra@+1,1,retail and recreation,0.47344054941517577,1.033424764299297
+dussehra@+1,1,transit stations,0.46626721831377466,1.0
+dussehra@+1,1,workplaces,-0.8116123508751248,1.5481682284040095
+dussehra@+2,2,grocery and pharmacy,0.29082290862460547,1.0
+dussehra@+2,2,parks,0.5250969138093028,1.0
+dussehra@+2,2,residential,-0.8401547787565988,1.0
+dussehra@+2,2,retail and recreation,0.7876453264423346,1.0
+dussehra@+2,2,transit stations,0.8401550306128434,1.0
+dussehra@+2,2,workplaces,-0.21003875765321084,1.0

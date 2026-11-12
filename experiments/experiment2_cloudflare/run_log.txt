@@ -1,0 +1,5 @@
+Loaded 3340 rows; 19 states + OTHER; 167 hours; CLR computed over 20 regions
+Scoring window: 2026-10-19 07:30:00 to 2026-10-24 05:30:00 IST (119 h per state); earlier hours are warm-up
+Trained 380 LightGBM forecasters (0.13 s mean fit) in 64 s
+Injection: clr += 0.95·δ (log-share shift δ re-normalised to sum 100); σ = MAD of the state's transductive residual; 8 events per state per seed (3 inside festival windows), non-overlapping with a 2-h gap
+E-A/E-B/E-C finished: 8550 result rows, 183 s

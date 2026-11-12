@@ -1,0 +1,28 @@
+{
+ "source": "Cloudflare Radar API, netflows timeseries_groups, groupBy=ADM1, location=IN",
+ "meta": {
+  "dateRange": [
+   {
+    "startTime": "2026-10-24T00:00:00Z",
+    "endTime": "2026-11-11T10:00:00Z"
+   }
+  ],
+  "confidenceInfo": {
+   "level": 5,
+   "annotations": []
+  },
+  "aggInterval": "ONE_HOUR",
+  "normalization": "PERCENTAGE",
+  "lastUpdated": "2026-11-11T08:45:00Z",
+  "units": [
+   {
+    "name": "*",
+    "value": "bytes"
+   }
+  ]
+ },
+ "n_hours": 441,
+ "n_regions": 20,
+ "first_utc": "2026-10-24 00:00:00+00:00",
+ "last_utc": "2026-11-11 08:00:00+00:00"
+}
