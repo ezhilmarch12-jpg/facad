@@ -1,6 +1,7 @@
 # FACAD — Festival-Aware Calendar-Adjusted anomaly Detection
 
 [![tests](https://github.com/ezhilmarch12-jpg/facad/actions/workflows/tests.yml/badge.svg)](https://github.com/ezhilmarch12-jpg/facad/actions/workflows/tests.yml)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24190133.svg)](https://doi.org/10.5281/zenodo.24190133)
 ![python](https://img.shields.io/badge/python-3.10%2B-blue) ![license](https://img.shields.io/badge/license-MIT-green)
 
 Anomaly detectors raise false alarms on Indian festivals, which follow lunisolar, state-specific calendars,
@@ -108,5 +109,7 @@ The `experiments/` folder keeps the code exactly as it produced the article's nu
 | Exp. 3, Cloudflare, Diwali (confirmatory) | holiday FPR 0.083, PR-AUC 0.590 | 0.043, 0.611 (FACAD-CG) | FPR p = 0.001; PR-AUC n.s. |
 
 ## Citation
+
+Code archive: E. Ezhilarasan (2026). *FACAD: Festival-Aware Calendar-Adjusted anomaly Detection for Indian network traffic* (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.24190133
 
 See `CITATION.cff`. Licence: code MIT (`LICENSE`); Cloudflare-derived data CC BY-NC 4.0 (`DATA_LICENSE.md`).

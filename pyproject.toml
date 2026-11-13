@@ -22,7 +22,8 @@ experiments = ["holidays==0.107", "ephem>=4.1", "scipy>=1.11", "lightgbm>=4.3", 
 dev = ["pytest>=8", "holidays==0.107"]
 
 [project.urls]
-Paper = "https://doi.org/TO-BE-ADDED"
+Archive = "https://doi.org/10.5281/zenodo.24190133"
+Repository = "https://github.com/ezhilmarch12-jpg/facad"
 
 [tool.setuptools.packages.find]
 where = ["src"]
