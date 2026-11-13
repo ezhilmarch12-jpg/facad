@@ -1,9 +1,22 @@
 {
   "title": "FACAD: Festival-Aware Calendar-Adjusted anomaly Detection for Indian network traffic — code, derived data and results",
   "upload_type": "software",
-  "description": "Code, derived datasets and result tables for the article 'Festival-Aware Anomaly Detection for Indian Network Traffic: Calendar-Adjusted Residuals, Regional Pooling and Context-Conditional Thresholds' (submitted to Applied Intelligence). Experiment 1: Google mobility data for 36 Indian states (2020–22). Experiment 2: Cloudflare Radar hourly state traffic shares, 17–24 October 2026 (CC BY-NC 4.0). Includes leave-one-state-out transfer and sensitivity analyses.",
-  "creators": [{"name": "Ezhilarasan, E.", "affiliation": "The Apollo University, Chittoor, Andhra Pradesh, India", "orcid": "0000-0001-5000-4577"}],
-  "license": "MIT",
-  "keywords": ["network anomaly detection", "false alarms", "calendar effects", "conformal prediction", "Indian festivals", "NetFlow"],
+  "description": "Code, derived datasets and result tables for the article 'Festival-Aware Anomaly Detection for Indian Network Traffic: Calendar-Adjusted Residuals, Regional Pooling and Context-Conditional Thresholds' (submitted to Applied Intelligence). Includes the facad Python package, tests and a quickstart example. Experiment 1: Google mobility data for 36 Indian states (2020–22). Experiment 2: Cloudflare Radar hourly state traffic shares, 17–24 October 2026. Experiment 3: confirmatory test on Diwali 2026 (24 October – 11 November 2026) with an analysis plan fixed before the data were obtained. Cloudflare-derived data are licensed CC BY-NC 4.0.",
+  "creators": [
+    {
+      "name": "Ezhilarasan, E.",
+      "affiliation": "The Apollo University, Chittoor, Andhra Pradesh, India",
+      "orcid": "0000-0001-5000-4577"
+    }
+  ],
+  "license": "mit",
+  "keywords": [
+    "network anomaly detection",
+    "false alarms",
+    "calendar effects",
+    "conformal prediction",
+    "Indian festivals",
+    "NetFlow"
+  ],
   "version": "1.0.0"
 }
