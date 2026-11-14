@@ -1,0 +1,10 @@
+event,region,days,in_window,FACAD,CG,blind,white
+Cyclone Jawad,Andhra Pradesh,2,0,0,0,0,0
+Cyclone Jawad,Odisha,2,0,0,0,0,1
+Cyclone Jawad,West Bengal,2,0,0,0,0,1
+General strike,Kerala,2,0,2,2,2,2
+General strike,Tamil Nadu,2,0,0,0,0,0
+General strike,West Bengal,2,0,0,0,0,0
+Sunday lockdown,Tamil Nadu,3,2,2,2,2,1
+Weekend curfew,Delhi,6,1,4,4,4,5
+Weekend curfew,Karnataka,4,2,4,4,4,2

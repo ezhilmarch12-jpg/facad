@@ -1,0 +1,14 @@
+vs,metric,median_diff,lo,hi,p,better,ties
+SeasonalZ-a,FPR_holiday,-0.022,-0.029,-0.004,0.000655,15,4
+SeasonalZ-a,PR_AUC,0.027,0.007,0.047,0.0108,15,0
+SeasonalZ-a,F1,0.012,0.0,0.05,0.0874,14,0
+SeasonalZ-a,recall_in_window,-0.019,-0.07,0.023,0.275,8,0
+FACAD-H-a,FPR_holiday,-0.024,-0.063,-0.004,0.000438,16,3
+FACAD-H-a,PR_AUC,-0.007,-0.02,0.008,0.568,8,0
+FACAD-H-a,F1,-0.007,-0.028,-0.004,0.0799,5,0
+FACAD-H-a,recall_in_window,-0.058,-0.083,-0.009,0.00247,3,1
+FACAD-prior,FPR_holiday,0.0,0.0,0.0,0.0431,0,14
+FACAD-prior,PR_AUC,0.04,0.009,0.055,0.00079,14,0
+FACAD-prior,F1,0.027,-0.004,0.079,0.0108,13,0
+FACAD-prior,recall_in_window,0.024,-0.013,0.099,0.0494,12,0
+Whitelist,recall_in_window,0.653,0.579,0.825,3.81e-06,19,0

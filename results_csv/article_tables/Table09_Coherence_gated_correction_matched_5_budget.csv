@@ -1,0 +1,7 @@
+﻿Method,Exp. 1 FPR,Exp. 1 PR-AUC,Exp. 1 recall inside windows,Exp. 2 FPR,Exp. 2 PR-AUC,Exp. 2 recall inside windows
+Calendar-blind (SeasonalZ),0.094,0.190,0.246,0.031,0.746,0.719
+FACAD (full table; FACAD-a),0.056,0.230,0.232,0.045,0.755,0.715
+Spread only,0.057,0.226,0.243,0.044,0.767,0.738
+FACAD-CG (gated),0.054,0.230,0.238,0.046,0.770,0.742
+FACAD-H-a,—,—,—,0.044,0.780,0.739
+FACAD-H-CG (gated),—,—,—,0.041,0.785,0.751

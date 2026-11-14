@@ -1,0 +1,12 @@
+﻿Method,Holiday FPR,Window FPR,F1,PR-AUC,Recall inside windows
+Calendar-blind (SeasonalZ-a),0.083,0.037,0.498,0.590,0.610
+Whitelist,0.000,0.000,0.400,0.590,0.000
+Isolation Forest,0.103,0.038,0.513,0.598,0.636
+Isolation Forest + calendar,0.379,0.023,0.400,0.442,0.604
+FACAD-a (full table),0.046,0.033,0.506,0.607,0.581
+Shift only,0.087,0.041,0.493,0.582,0.606
+Spread only,0.042,0.030,0.508,0.613,0.583
+FACAD-prior (mobility spread),0.032,0.027,0.481,0.574,0.481
+FACAD-CG (gated),0.043,0.030,0.507,0.611,0.584
+"FACAD-H-CG (gated, regional)",0.051,0.031,0.508,0.614,0.589
+Prophet with holidays (transductive),0.097,0.039,0.604,0.758,0.776

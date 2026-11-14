@@ -1,0 +1,61 @@
+﻿file,content,rows
+article_tables/Table03_Experiment_1_results_at_a_matched_5_overall_false_alarm_budg.csv,Table 3 of the article: Experiment 1 results at a matched 5% overall false-alarm budget (mean over 10 seeds).,8
+article_tables/Table04_Real_event_benchmark_Experiment_1_test_period_no_injection_m.csv,"Table 4 of the article: Real-event benchmark, Experiment 1 test period (no injection; matched 5% overall budget). Detected: event days above the threshold; percentile: median within-state rank of event days (1 = highest score).",9
+article_tables/Table05_Experiment_2_results_Cloudflare_shares_leave_one_state_out_m.csv,"Table 5 of the article: Experiment 2 results (Cloudflare shares, leave-one-state-out, matched 5% budget; mean ± SD across 19 held-out states of 10-seed averages).",15
+article_tables/Table06_Experiment_2_achieved_false_alarm_rate_per_context_with_a_gl.csv,Table 6 of the article: Experiment 2: achieved false-alarm rate per context with a global and a Mondrian conformal threshold (target 5%).,10
+article_tables/Table07_Ablations_matched_5_budget.csv,Table 7 of the article: Ablations (matched 5% budget). Experiment 1: festival-window FPR and PR-AUC; Experiment 2: holiday-hour FPR and PR-AUC.,10
+article_tables/Table08_Sensitivity_analyses_matched_5_budget_Experiment_1_mean_over.csv,Table 8 of the article: Sensitivity analyses (matched 5% budget; Experiment 1: mean over 10 seeds; Experiment 2: mean over 19 held-out states). The pre-set values are λ = 5 and a −3 to +2 day kernel.,13
+article_tables/Table09_Coherence_gated_correction_matched_5_budget.csv,"Table 9 of the article: Coherence-gated correction (matched 5% budget). Experiment 1: festival-window FPR, mean over 10 seeds; Experiment 2: holiday-hour FPR, mean over 19 held-out states.",6
+article_tables/Table10_Confirmatory_hypotheses_of_Experiment_3_fixed_before_the_dat.csv,"Table 10 of the article: Confirmatory hypotheses of Experiment 3, fixed before the data were obtained. Differences are FACAD-CG minus the comparator (median over 19 held-out states, bootstrap 95% CI); two-sided Wilcoxon tests.",4
+article_tables/Table11_Experiment_3_Diwali_2026_matched_5_budget_mean_over_19_held.csv,"Table 11 of the article: Experiment 3 (Diwali 2026), matched 5% budget, mean over 19 held-out states and 10 seeds. Transductive methods fit the scored period.",11
+article_tables/Table12_Synthesis_across_experiments_matched_5_budget.csv,Table 12 of the article: Synthesis across experiments (matched 5% budget).,3
+article_tables/TableA1_Paired_Wilcoxon_signed_rank_tests.csv,"Table A1 of the article: Paired Wilcoxon signed-rank tests. Experiment 1: over 10 seeds; Experiments 2 and 3: over 19 held-out states, median difference with bootstrap 95% CI. FACAD-LOSO: table learned without the scored state; FACAD-HP: exploratory combined variant; FACAD-CG: coherence-gated; real events: paired over 25 event days.",33
+article_tables/TableA2_Runtime_and_memory_on_one_CPU_Experiment_2.csv,Table A2 of the article: Runtime and memory on one CPU (Experiment 2).,5
+full_results/exp1_mobility/e1_ablation_all_seeds.csv,Exp.1 ablations per seed,70
+full_results/exp1_mobility/e1_ablation_summary.csv,Exp.1 ablation means,9
+full_results/exp1_mobility/e1_all_seeds.csv,Exp.1 every method x seed (matched budget),160
+full_results/exp1_mobility/e1_per_festival_fpr.csv,Exp.1 festival FPR per festival group,11
+full_results/exp1_mobility/e1_summary_matched.csv,"Exp.1 mean per method, matched 5% budget",8
+full_results/exp1_mobility/e1_summary_val.csv,"Exp.1 mean per method, validation-calibrated thresholds",8
+full_results/exp1_mobility/e1_wilcoxon_facadgbr.csv,Exp.1 Wilcoxon tests for FACAD-GBR,4
+full_results/exp1_mobility/e1_wilcoxon_matched.csv,Exp.1 Wilcoxon tests vs FACAD (matched),7
+full_results/exp1_mobility/e1_wilcoxon_val.csv,Exp.1 Wilcoxon tests (validation thresholds),7
+full_results/exp1_mobility/facad_effect_table.csv,Exp.1 learned effect table (shift per context and mobility signal),63
+full_results/exp2_dussehra/EB_mobility_vs_traffic.csv,Mobility vs traffic effect correlation,4
+full_results/exp2_dussehra/ED_top20_real_hours.csv,Top-20 real (non-injected) anomalous hours,40
+full_results/exp2_dussehra/T1_main_matched.csv,"Main results, matched 5% budget",13
+full_results/exp2_dussehra/T2_calibrated_thresholds.csv,Global vs Mondrian conformal thresholds,26
+full_results/exp2_dussehra/T3_wilcoxon.csv,Paired Wilcoxon tests with bootstrap CIs,60
+full_results/exp2_dussehra/T4_per_state.csv,Per held-out state results,19
+full_results/exp2_dussehra/T5_ablation.csv,Ablations,9
+full_results/exp2_dussehra/T6_recall_by_type.csv,Recall by injected anomaly type,13
+full_results/exp2_dussehra/T7_runtime.csv,Runtime and memory,5
+full_results/exp2_dussehra/all_runs.csv,Every state x seed x method run,8550
+full_results/exp2_dussehra/effect_table_heatmap.csv,Learned effect table (offset|hour block),20
+full_results/exp2_dussehra/injected_events.csv,Injected anomaly events,1520
+full_results/exp3_diwali/EB_mobility_vs_traffic.csv,Mobility vs traffic effect correlation,4
+full_results/exp3_diwali/ED_top20_real_hours.csv,Top-20 real (non-injected) anomalous hours,40
+full_results/exp3_diwali/T1_main_matched.csv,"Main results, matched 5% budget",15
+full_results/exp3_diwali/T2_calibrated_thresholds.csv,Global vs Mondrian conformal thresholds,30
+full_results/exp3_diwali/T3_wilcoxon.csv,Paired Wilcoxon tests with bootstrap CIs,60
+full_results/exp3_diwali/T4_per_state.csv,Per held-out state results,19
+full_results/exp3_diwali/T5_ablation.csv,Ablations,9
+full_results/exp3_diwali/T6_recall_by_type.csv,Recall by injected anomaly type,15
+full_results/exp3_diwali/T7_runtime.csv,Runtime and memory,5
+full_results/exp3_diwali/all_runs.csv,Every state x seed x method run,9690
+full_results/exp3_diwali/coherence_log.csv,Coherence index per table entry,30735
+full_results/exp3_diwali/effect_table_heatmap.csv,Learned effect table (offset|hour block),20
+full_results/exp3_diwali/hypothesis_tests.csv,Confirmatory hypothesis tests H1-H4,13
+full_results/exp3_diwali/injected_events.csv,Injected anomaly events,1520
+full_results/extensions/e1_cg_all_seeds.csv,Exp.1 coherence-gated FACAD per seed,40
+full_results/extensions/e1_coherence_by_group.csv,Exp.1 coherence per festival group,11
+full_results/extensions/e1_extensions_all.csv,"Exp.1 sensitivity analyses (lambda, kernel, LOSO, magnitude)",270
+full_results/extensions/e1_per_group_coherence_gain.csv,Exp.1 FPR reduction vs coherence per group,9
+full_results/extensions/e1_real_events_by_day.csv,"Real-event benchmark, per event day",225
+full_results/extensions/e1_real_events_summary.csv,Real-event benchmark summary,9
+full_results/extensions/e1_real_events_table.csv,Real-event benchmark per event,9
+full_results/extensions/e2_cg_all_runs.csv,Exp.2 coherence-gated runs,950
+full_results/extensions/e2_cg_tests.csv,Exp.2 coherence-gate tests,16
+full_results/extensions/e2_coherence.csv,Exp.2 coherence per context,494
+full_results/extensions/e2_extensions_all.csv,Exp.2 sensitivity analyses,10830
+full_results/extensions/e2_hp_tests.csv,Exp.2 FACAD-HP tests,13

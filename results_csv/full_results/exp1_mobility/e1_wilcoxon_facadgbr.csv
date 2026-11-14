@@ -1,0 +1,5 @@
+vs,ΔFPR_festival,p_FPR_festival,ΔF1,p_F1,ΔPR_AUC,p_PR_AUC,Δrecall_festival_attacks,p_recall_festival_attacks,mode
+Blind-GBR,-0.03,0.002,0.034,0.002,0.016,0.002,-0.045,0.0039,matched
+Cal-GBR,-0.029,0.002,-0.006,0.375,-0.001,0.625,-0.078,0.002,matched
+Blind-GBR,-0.073,0.002,0.002,0.1055,0.016,0.002,-0.046,0.0078,val
+Cal-GBR,-0.023,0.002,-0.011,0.0059,-0.001,0.625,-0.019,0.0332,val

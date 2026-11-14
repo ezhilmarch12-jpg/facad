@@ -1,0 +1,11 @@
+﻿Method,Threshold,Holiday,Window,Normal,Overall,Recall
+FACAD-a,Global,0.033,0.055,0.035,0.045,0.559
+FACAD-a,Mondrian,0.053,0.046,0.038,0.045,0.561
+FACAD-H-a,Global,0.036,0.048,0.043,0.042,0.572
+FACAD-H-a,Mondrian,0.052,0.041,0.038,0.042,0.566
+SeasonalZ-a,Global,0.027,0.057,0.028,0.044,0.552
+SeasonalZ-a,Mondrian,0.050,0.047,0.038,0.045,0.563
+FACAD-prior,Global,0.002,0.062,0.039,0.044,0.509
+FACAD-prior,Mondrian,0.050,0.043,0.038,0.044,0.564
+"LightGBM, calendar inputs",Mondrian,0.048,0.049,0.088,0.053,0.305
+Prophet with holidays,Mondrian,0.045,0.039,0.073,0.043,0.689

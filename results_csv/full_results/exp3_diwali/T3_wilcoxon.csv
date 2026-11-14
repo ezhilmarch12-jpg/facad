@@ -1,0 +1,61 @@
+method,vs,metric,median_diff,ci95_low,ci95_high,p_value,n_states
+FACAD-a,SeasonalZ-a,FPR_holiday,-0.018,-0.057,0.0,0.00189,19
+FACAD-a,SeasonalZ-a,PR_AUC,0.0,-0.016,0.024,0.49,19
+FACAD-a,SeasonalZ-a,F1,0.003,-0.007,0.013,0.465,19
+FACAD-a,SeasonalZ-a,recall_in_window,-0.027,-0.054,-0.01,0.0222,19
+FACAD-a,GBM-c (blind),FPR_holiday,-0.031,-0.048,0.008,0.0728,19
+FACAD-a,GBM-c (blind),PR_AUC,0.206,0.14,0.35,3.81e-06,19
+FACAD-a,GBM-c (blind),F1,0.168,0.107,0.199,3.81e-06,19
+FACAD-a,GBM-c (blind),recall_in_window,0.178,0.086,0.272,9.54e-05,19
+FACAD-a,GBM-cal (calendar inputs),FPR_holiday,-0.027,-0.037,-0.002,0.0446,19
+FACAD-a,GBM-cal (calendar inputs),PR_AUC,0.208,0.142,0.344,3.81e-06,19
+FACAD-a,GBM-cal (calendar inputs),F1,0.176,0.101,0.201,3.81e-06,19
+FACAD-a,GBM-cal (calendar inputs),recall_in_window,0.192,0.102,0.269,7.25e-05,19
+FACAD-a,IF,FPR_holiday,-0.052,-0.078,-0.021,0.000655,19
+FACAD-a,IF,PR_AUC,0.006,-0.047,0.038,0.768,19
+FACAD-a,IF,F1,-0.002,-0.038,0.019,0.541,19
+FACAD-a,IF,recall_in_window,-0.04,-0.086,0.025,0.0475,19
+FACAD-a,IF+cal,FPR_holiday,-0.32,-0.465,-0.211,3.81e-06,19
+FACAD-a,IF+cal,PR_AUC,0.137,0.051,0.296,0.00079,19
+FACAD-a,IF+cal,F1,0.062,0.03,0.175,0.00169,19
+FACAD-a,IF+cal,recall_in_window,-0.037,-0.089,0.019,0.293,19
+FACAD-a,Prophet-hol,FPR_holiday,-0.044,-0.069,-0.027,0.000645,19
+FACAD-a,Prophet-hol,PR_AUC,-0.097,-0.241,-0.044,1.91e-05,19
+FACAD-a,Prophet-hol,F1,-0.075,-0.142,-0.047,7.63e-06,19
+FACAD-a,Prophet-hol,recall_in_window,-0.175,-0.297,-0.063,0.000164,19
+FACAD-a,Whitelist-a,FPR_holiday,0.023,0.0,0.082,0.00335,19
+FACAD-a,Whitelist-a,PR_AUC,0.0,-0.016,0.024,0.49,19
+FACAD-a,Whitelist-a,F1,0.122,0.103,0.129,2.67e-05,19
+FACAD-a,Whitelist-a,recall_in_window,0.545,0.49,0.707,3.81e-06,19
+FACAD-a,FACAD-prior (mobility),FPR_holiday,0.0,0.0,0.029,0.131,19
+FACAD-a,FACAD-prior (mobility),PR_AUC,0.028,0.012,0.043,0.00042,19
+FACAD-a,FACAD-prior (mobility),F1,0.023,0.002,0.026,3.81e-05,19
+FACAD-a,FACAD-prior (mobility),recall_in_window,0.104,0.049,0.137,3.81e-06,19
+FACAD-H-a,FACAD-a,FPR_holiday,0.0,0.0,0.014,0.0499,19
+FACAD-H-a,FACAD-a,PR_AUC,0.003,-0.001,0.008,0.0494,19
+FACAD-H-a,FACAD-a,F1,0.0,-0.002,0.005,0.532,19
+FACAD-H-a,FACAD-a,recall_in_window,0.007,0.0,0.022,0.125,19
+FACAD-H-a,SeasonalZ-a,FPR_holiday,-0.017,-0.043,0.0,0.00123,19
+FACAD-H-a,SeasonalZ-a,PR_AUC,0.002,-0.009,0.041,0.395,19
+FACAD-H-a,SeasonalZ-a,F1,0.002,-0.005,0.01,0.568,19
+FACAD-H-a,SeasonalZ-a,recall_in_window,-0.026,-0.037,-0.007,0.0311,19
+FACAD-prior (mobility),SeasonalZ-a,FPR_holiday,-0.016,-0.091,0.0,0.00123,19
+FACAD-prior (mobility),SeasonalZ-a,PR_AUC,-0.02,-0.036,-0.009,0.0546,19
+FACAD-prior (mobility),SeasonalZ-a,F1,-0.015,-0.031,0.004,0.0258,19
+FACAD-prior (mobility),SeasonalZ-a,recall_in_window,-0.124,-0.143,-0.084,3.81e-06,19
+FACAD-prior (mobility),Whitelist-a,FPR_holiday,0.0,0.0,0.0,0.0431,19
+FACAD-prior (mobility),Whitelist-a,PR_AUC,-0.02,-0.036,-0.009,0.0546,19
+FACAD-prior (mobility),Whitelist-a,F1,0.105,0.08,0.122,0.00079,19
+FACAD-prior (mobility),Whitelist-a,recall_in_window,0.478,0.382,0.616,3.81e-06,19
+FACAD-b,SeasonalZ-b,FPR_holiday,-0.042,-0.077,-0.002,0.000982,19
+FACAD-b,SeasonalZ-b,PR_AUC,0.002,-0.015,0.053,0.182,19
+FACAD-b,SeasonalZ-b,F1,-0.008,-0.015,0.01,0.953,19
+FACAD-b,SeasonalZ-b,recall_in_window,-0.057,-0.094,0.0,0.00334,19
+FACAD-c,GBM-c (blind),FPR_holiday,-0.009,-0.014,-0.0,0.0108,19
+FACAD-c,GBM-c (blind),PR_AUC,0.002,-0.006,0.006,0.798,19
+FACAD-c,GBM-c (blind),F1,-0.005,-0.007,0.003,0.465,19
+FACAD-c,GBM-c (blind),recall_in_window,-0.029,-0.051,-0.012,0.00118,19
+FACAD-c,GBM-cal (calendar inputs),FPR_holiday,-0.007,-0.014,-0.005,0.00945,19
+FACAD-c,GBM-cal (calendar inputs),PR_AUC,-0.0,-0.007,0.003,0.623,19
+FACAD-c,GBM-cal (calendar inputs),F1,0.004,-0.006,0.006,0.595,19
+FACAD-c,GBM-cal (calendar inputs),recall_in_window,-0.017,-0.053,-0.006,0.00101,19

@@ -1,0 +1,4 @@
+﻿Setting,Calendar-blind festival FPR,FACAD festival FPR,Best FACAD variant,PR-AUC change,Whitelist recall inside windows
+"Exp. 1 mobility, absolute activity, 2 years",0.094,0.056,Full table (spread ≈ full),0.190 → 0.230,0.000
+"Exp. 2 Cloudflare shares, one week, Dussehra",0.031,0.045,FACAD-H-CG (PR-AUC 0.785); FACAD-HP (0.006 FPR; exploratory),0.746 → 0.785 (FACAD-H-CG),0.000
+"Exp. 3 Cloudflare shares, 18 days, Diwali (confirmatory)",0.083,0.043 (FACAD-CG),FACAD-CG (FPR); FACAD-prior (0.032 FPR),0.590 → 0.611 (n.s.),0.000

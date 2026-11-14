@@ -86,6 +86,7 @@ experiments/          exact code, derived data and results behind every table an
   extensions/             sensitivity, transfer, coherence, real-event benchmark, Figs. 7–9
   REPRODUCE.md            run order, run times and software versions
 docs/                 Experiment 3 analysis plan
+results_csv/          every results table of the article as CSV, plus the raw result files (see INDEX.csv)
 ```
 
 The `experiments/` folder keeps the code exactly as it produced the article's numbers (`facad_lib.py`); the

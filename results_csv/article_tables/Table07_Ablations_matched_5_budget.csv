@@ -1,0 +1,11 @@
+﻿Variant,Exp. 1 FPR,Exp. 1 PR-AUC,Exp. 2 FPR,Exp. 2 PR-AUC
+Full FACAD,0.056,0.230,0.045,0.755
+No adjustment (calendar-blind),0.096,0.187,0.031,0.746
+Shift only (V = 1),0.086,0.203,0.032,0.734
+Spread only (E = 0),0.057,0.226,0.044,0.767
+Festival day only (no kernel),0.070,0.230,0.033,0.744
+National calendar for every state,0.064,0.223,0.039,0.753
+Gregorian holidays only,0.088,0.195,—,—
+No shrinkage (λ = 0),—,—,0.044,0.750
+No hour blocks,—,—,0.034,0.743
+Regional pooling (FACAD-H),—,—,0.044,0.780

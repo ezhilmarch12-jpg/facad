@@ -1,0 +1,34 @@
+﻿Experiment,Comparison,Metric,Difference,95% CI,p
+1,FACAD − SeasonalZ,Festival FPR,−0.038,—,0.002
+1,FACAD − SeasonalZ,PR-AUC,+0.040,—,0.002
+1,FACAD − SeasonalZ,Recall inside windows,−0.014,—,0.406
+1,FACAD-GBR − Blind-GBR,Festival FPR,−0.030,—,0.002
+1,FACAD − Whitelist,Recall inside windows,+0.232,—,0.002
+1,FACAD-LOSO − SeasonalZ,Festival FPR,−0.038,—,0.002
+1,FACAD-LOSO − SeasonalZ,PR-AUC,+0.039,—,0.002
+2,FACAD-a − SeasonalZ-a,Holiday FPR,+0.006,0.000 to 0.024,0.00632
+2,FACAD-a − SeasonalZ-a,PR-AUC,+0.001,−0.008 to 0.026,0.465
+2,FACAD-H-a − FACAD-a,PR-AUC,+0.019,0.013 to 0.034,7.63 × 10⁻⁶
+2,FACAD-H-a − SeasonalZ-a,PR-AUC,+0.037,0.002 to 0.051,0.00141
+2,FACAD-prior − SeasonalZ-a,Holiday FPR,−0.022,−0.036 to −0.004,6.55 × 10⁻⁴
+2,FACAD-prior − SeasonalZ-a,Recall inside windows,−0.075,−0.102 to −0.009,5.36 × 10⁻⁴
+2,FACAD-prior − Whitelist,Recall inside windows,+0.600,0.555 to 0.725,3.81 × 10⁻⁶
+2,FACAD-c − LightGBM blind,PR-AUC,+0.016,0.007 to 0.022,0.00169
+1,FACAD-CG − FACAD,Festival FPR,−0.002,—,0.002
+1 (real events),FACAD − SeasonalZ,Event-day percentile rank,+0.019,—,7.0 × 10⁻⁴
+1 (real events),FACAD − IF+cal,Event-day percentile rank,+0.071,—,5.4 × 10⁻⁴
+2,FACAD-CG − FACAD-a,PR-AUC,+0.014,0.006 to 0.020,1.9 × 10⁻⁵
+2,FACAD-H-CG − SeasonalZ-a,PR-AUC,+0.036,0.012 to 0.049,5.3 × 10⁻⁵
+2,FACAD-H-CG − FACAD-H-a,PR-AUC,+0.006,−0.001 to 0.010,0.0124
+2,FACAD-HP − SeasonalZ-a,Holiday FPR,−0.022,−0.029 to −0.004,6.55 × 10⁻⁴
+2,FACAD-HP − SeasonalZ-a,PR-AUC,+0.027,0.007 to 0.047,0.0108
+2,FACAD-HP − SeasonalZ-a,Recall inside windows,−0.019,−0.070 to 0.023,0.275
+2,FACAD-HP − Whitelist,Recall inside windows,+0.653,0.579 to 0.825,3.81 × 10⁻⁶
+3,FACAD-CG − SeasonalZ-a,Holiday FPR,−0.026,−0.052 to −0.002,9.9 × 10⁻⁴
+3,FACAD-CG − SeasonalZ-a,PR-AUC,+0.008,−0.013 to 0.033,0.258
+3,FACAD-CG − SeasonalZ-a,Recall inside windows,−0.043,−0.060 to 0.000,0.0495
+3,FACAD-CG − FACAD-a,PR-AUC,+0.004,0.000 to 0.007,6.5 × 10⁻⁴
+3,FACAD-a − SeasonalZ-a,Holiday FPR,−0.018,−0.057 to 0.000,0.0019
+3,FACAD-H-CG − SeasonalZ-a,Holiday FPR,−0.025,−0.048 to 0.000,0.0012
+3,FACAD-prior − SeasonalZ-a,Holiday FPR,−0.016,−0.091 to 0.000,0.0012
+3,FACAD-prior − SeasonalZ-a,PR-AUC,−0.020,−0.036 to −0.009,0.0546

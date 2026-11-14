@@ -1,0 +1,5 @@
+﻿Hypothesis,Result,Difference (95% CI),p,Verdict
+H1: Diwali coherence ≥ 0.5,Mean 0.128; range 0.06–0.37,—,—,Not supported
+H2: holiday FPR below calendar-blind,0.043 vs 0.083,−0.026 (−0.052 to −0.002),9.9 × 10⁻⁴,Supported
+H3: PR-AUC at least calendar-blind,0.611 vs 0.590,+0.008 (−0.013 to 0.033),0.26,Not supported (inconclusive)
+H4: whitelist misses in-window anomalies; FACAD-CG detects most,0.000 vs 0.584,+0.584,3.8 × 10⁻⁶,Supported
