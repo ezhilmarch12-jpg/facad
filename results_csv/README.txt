@@ -2,6 +2,7 @@ FACAD - downloadable results (CSV)
 Article: Festival-Aware Anomaly Detection for Indian Network Traffic (submitted to Applied Intelligence)
 Code and data: https://github.com/ezhilmarch12-jpg/facad   Archive: https://doi.org/10.5281/zenodo.24190133
 
+FACAD_All_Results.pdf  all of the below in one PDF (88 pages)
 INDEX.csv          one line per file: what it contains and how many rows
 article_tables/    every results table of the article (Tables 3-12, A1, A2), exactly as printed
 full_results/      the raw result files the tables were computed from
